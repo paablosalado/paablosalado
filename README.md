@@ -10,9 +10,9 @@
 
 -JavaScript ⚡
 
--n8n
-
 -SQL
+
+-n8n
 
 -APIs & integrations
 
