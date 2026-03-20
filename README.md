@@ -1,4 +1,4 @@
-## Hi, I'm Pablo👋
+## HI! MY NAME IS PABLO👋
 
 🚀 Software developer in training (DAM) with a strong focus on automation, data workflows, and practical problem solving.
 
