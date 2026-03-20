@@ -1,13 +1,23 @@
-## Hi there 👋
+## Hi, I'm Pablo👋
 
-<!--
-**paablosalado/paablosalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software developer in training (DAM) with a strong focus on automation, data workflows, and practical problem solving.
 
-hazmelo en inglés
-Escritura
+💻 I mainly work in automation and data analysis with AI, building workflows, processing data, and connecting different tools and services to create efficient, scalable solutions.
 
-🚀 Software developer in training (DAM) with a strong focus on automation and data workflows.
+🧠 Technologies I work with:
 
-💻 I primarily work with JavaScript and Python, building automation solutions in n8n, integrating APIs, and designing efficient workflows.
+-Python 🐍
 
-🧠 Interested in pretty much anything related to programming.
+-JavaScript ⚡
+
+-n8n
+
+-SQL
+
+-APIs & integrations
+
+-Data scraping & processing
+
+-AI tools for automation and analysis
+
+🤓 I’m into pretty much anything related to programming — I enjoy building, experimenting, and learning new technologies, turning both work and curiosity into hands-on projects.
